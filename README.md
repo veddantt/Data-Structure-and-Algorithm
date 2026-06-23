@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
