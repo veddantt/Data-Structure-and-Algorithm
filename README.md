@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1929-concatenation-of-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
