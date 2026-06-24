@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Simulation
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Sorting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
