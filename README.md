@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
