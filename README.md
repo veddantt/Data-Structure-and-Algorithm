@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
