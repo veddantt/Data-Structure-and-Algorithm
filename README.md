@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 ## Binary Search
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
