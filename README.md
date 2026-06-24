@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0649-dota2-senate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0649-dota2-senate) |
 | [1382-balance-a-binary-search-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
