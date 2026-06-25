@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0649-dota2-senate) |
+| [1143-longest-common-subsequence](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
