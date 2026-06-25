@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0740-delete-and-earn](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [1207-unique-number-of-occurrences](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1137-n-th-tribonacci-number) |
