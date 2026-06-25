@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0994-rotting-oranges](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
