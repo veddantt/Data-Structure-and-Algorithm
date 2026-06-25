@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
