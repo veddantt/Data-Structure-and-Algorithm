@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0399-evaluate-division) |
 | [0704-binary-search](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1382-balance-a-binary-search-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [2542-maximum-subsequence-score](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Binary Search Tree
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1137-n-th-tribonacci-number) |
