@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
