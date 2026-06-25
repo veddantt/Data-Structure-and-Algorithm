@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0394-decode-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0399-evaluate-division) |
+| [0516-longest-palindromic-subsequence](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1268-search-suggestions-system) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
