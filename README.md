@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0338-counting-bits) |
@@ -316,10 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
