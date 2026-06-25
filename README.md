@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0649-dota2-senate) |
 | [1382-balance-a-binary-search-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1382-balance-a-binary-search-tree) |
+| [2542-maximum-subsequence-score](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
+| [2542-maximum-subsequence-score](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
