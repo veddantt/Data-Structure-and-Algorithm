@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1207-unique-number-of-occurrences) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0790-domino-and-tromino-tiling) |
+| [0931-minimum-falling-path-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
