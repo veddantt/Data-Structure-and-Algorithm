@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0399-evaluate-division) |
 | [0704-binary-search](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
@@ -229,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0399-evaluate-division) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
