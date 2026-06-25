@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1768-merge-strings-alternately](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
