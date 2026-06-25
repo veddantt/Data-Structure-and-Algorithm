@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0399-evaluate-division) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
