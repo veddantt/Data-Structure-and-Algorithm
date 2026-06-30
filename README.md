@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0740-delete-and-earn](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [1207-unique-number-of-occurrences](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1207-unique-number-of-occurrences) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0394-decode-string](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0399-evaluate-division) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
@@ -370,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/veddantt/Data-Structure-and-Algorithm/tree/master/1268-search-suggestions-system) |
 ## Monotonic Stack
